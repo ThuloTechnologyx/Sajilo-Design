@@ -1,26 +1,6 @@
 {
     "Magh": [
-      {
-        "id": "1",
-        "festival": "Maghe Sankranti",
-        "date": "2024-01-15",
-        "note": "Happy Maghe Sankranti!.",
-        "imageUrls": [
-          "https://raw.githubusercontent.com/ThuloTechnologyx/Sajilo-Design/main/img/magh/MS1.jpg",
-          "https://raw.githubusercontent.com/ThuloTechnologyx/Sajilo-Design/main/img/magh/MS2.jpg",
-            "https://raw.githubusercontent.com/ThuloTechnologyx/Sajilo-Design/main/img/magh/MS3.jpg",
-            "https://raw.githubusercontent.com/ThuloTechnologyx/Sajilo-Design/main/img/magh/MS4.jpg",
-            "https://raw.githubusercontent.com/ThuloTechnologyx/Sajilo-Design/main/img/magh/MS5.jpg",
-            "https://raw.githubusercontent.com/ThuloTechnologyx/Sajilo-Design/main/img/magh/MS6.jpg",
-            "https://raw.githubusercontent.com/ThuloTechnologyx/Sajilo-Design/main/img/magh/MS7.jpg",
-            "https://raw.githubusercontent.com/ThuloTechnologyx/Sajilo-Design/main/img/magh/MS8.jpg",
-            "https://raw.githubusercontent.com/ThuloTechnologyx/Sajilo-Design/main/img/magh/MS9.jpg",
-            "https://raw.githubusercontent.com/ThuloTechnologyx/Sajilo-Design/main/img/magh/MS10.jpg",
-            "https://raw.githubusercontent.com/ThuloTechnologyx/Sajilo-Design/main/img/magh/MS11.jpg",
-            "https://raw.githubusercontent.com/ThuloTechnologyx/Sajilo-Design/main/img/magh/MS12.jpg",
-            "https://raw.githubusercontent.com/ThuloTechnologyx/Sajilo-Design/main/img/magh/MS13.jpg"
-        ]
-      },
+    
       {
         "id": "2",
         "festival": "Sonam Lhosar",
